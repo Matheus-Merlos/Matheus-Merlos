@@ -35,6 +35,4 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 
 ![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheus-merlos&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-merlos&locale=en&hide_title=true&layout=compact&card_width=450&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph"  />
-
 <hr/>
