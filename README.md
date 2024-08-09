@@ -4,7 +4,7 @@
 
 ## Sobre mim!
 
-Sou um estudante de desenvolvimento de software extremamente dedicado e apaixonado por tecnologia, com o objetivo de me tornar um Desenvolvedor Full Stack. Minha jornada na programação é impulsionada pela curiosidade e pela vontade constante de aprender.
+Sou um estudante de desenvolvimento de software extremamente dedicado e apaixonado por tecnologia, com o objetivo de me tornar um profissional na área de DevOps. Minha jornada na programação é impulsionada pela curiosidade e pela vontade constante de aprender.
 
 ### Meu Approach
 
@@ -12,21 +12,32 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 
 <hr/>
 
-### 🌙 Linguagens e Ferramentas:
+<h3 style="align: center";>🌙 Linguagens:</h3>
 
-<img align="left" alt="Python3" width="30px" style="padding-right:10px;" src="img/python-icon.svg">
-<img align="left" alt="Flask" width="30px" style="padding-right:10px; filter: invert(100%);" src="img/flask-icon.svg">
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="img/django-icon.svg">
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="img/postgresql-icon.svg">
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="img/html5-icon.svg">
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="img/css-icon.svg">
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/typescript-icon.svg">
-<img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="img/react-icon.svg">
-<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="img/svelte-icon.svg">
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/javascript-icon.svg">
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="img/nodejs-icon.svg">
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="img/aws-icon.svg">
-<img align="left" alt="Rust Language" width="30px" style="padding-right:10px; filter: invert(100%);" src="img/rust-icon.svg">
+
+<div style="display: flexbox; justify-content: center">
+    <img align="left" alt="Python3" width="30px" style="padding-right:10px;" src="img/python-icon.svg">
+    <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="img/html5-icon.svg">
+    <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/typescript-icon.svg">
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/javascript-icon.svg">
+    <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="img/sass-icon.svg">
+    <img align="left" alt="BASH" width="30px" style="padding-right:10px;" src="img/bash-icon.svg">
+</div>
+<br />
+
+<h3 style="align: center";>🛠️ Ferramentas</h3>
+
+<div style="display: flexbox; justify-content: center">
+    <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="img/docker-icon.svg">
+    <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="img/linux-icon.svg">
+    <img align="left" alt="Github Actions" width="30px" style="padding-right:10px;" src="img/github-actions-icon.svg">
+    <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="img/aws-icon.svg">
+    <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="img/terraform-icon.svg">
+    <img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="img/react-icon.svg">
+    <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="img/svelte-icon.svg">
+    <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="img/nodejs-icon.svg">
+    <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="img/postgresql-icon.svg">
+</div>
 
 #
 <br />
