@@ -15,7 +15,7 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 <h3 style="align: center";>🌙 Linguagens:</h3>
 
 
-<div style="display: flexbox; justify-content: center">
+<div style="text-align: center;">
     <img align="left" alt="Python3" width="30px" style="padding-right:10px;" src="img/python-icon.svg">
     <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="img/html5-icon.svg">
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/typescript-icon.svg">
@@ -27,7 +27,7 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 
 <h3 style="align: center";>🛠️ Ferramentas</h3>
 
-<div style="display: flexbox; justify-content: center">
+<div style="text-align: center;">
     <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="img/docker-icon.svg">
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="img/linux-icon.svg">
     <img align="left" alt="Github Actions" width="30px" style="padding-right:10px;" src="img/github-actions-icon.svg">
