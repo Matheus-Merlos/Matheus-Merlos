@@ -12,7 +12,7 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 
 <hr/>
 
-<h3 style="align: center";>🌙 Linguagens:</h3>
+<h2 style="align: center";>🌙 Linguagens:</h2>
 
 
 <div style="text-align: center;">
@@ -25,7 +25,7 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 </div>
 <br />
 
-<h3 style="align: center";>🛠️ Ferramentas</h3>
+<h2 style="align: center";>🛠️ Ferramentas</h2>
 
 <div style="text-align: center;">
     <img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="img/docker-icon.svg">
