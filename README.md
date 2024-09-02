@@ -17,11 +17,11 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 
 <div align="center">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/c-icon.svg">
+    <img alt="Java" width="45px" style="padding-right:10px;" src="img/java-icon.svg">
+    <img alt="SASS" width="45px" style="padding-right:10px;" src="img/sass-icon.svg">
     <img alt="TypeScript" width="45px" style="padding-right:10px;" src="img/typescript-icon.svg">
     <img alt="Python3" width="45px" style="padding-right:10px;" src="img/python-icon.svg">
     <img alt="JavaScript" width="45px" style="padding-right:10px;" src="img/javascript-icon.svg">
-    <img alt="SASS" width="45px" style="padding-right:10px;" src="img/sass-icon.svg">
-    <img alt="Java" width="45px" style="padding-right:10px;" src="img/java-icon.svg">
 </div>
 
 <br />
