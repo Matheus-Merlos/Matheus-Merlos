@@ -15,28 +15,28 @@ Meus projetos são criados com base nas ideias que surgem enquanto estudo e prog
 <h2 style="align: center";>🌙 Linguagens:</h2>
 
 
-<div style="text-align: center;">
+<div align="center">
     <img align="left" alt="Python3" width="45px" style="padding-right:10px;" src="img/python-icon.svg">
-    <img align="left" alt="HTML5" width="45px" style="padding-right:10px;" src="img/html5-icon.svg">
     <img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="img/typescript-icon.svg">
     <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="img/javascript-icon.svg">
     <img align="left" alt="SASS" width="45px" style="padding-right:10px;" src="img/sass-icon.svg">
-    <img align="left" alt="BASH" width="45px" style="padding-right:10px;" src="img/bash-icon.svg">
+    <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="img/java-icon.svg">
 </div>
+
+##
+
 <br />
 
 <h2 style="align: center";>🛠️ Ferramentas</h2>
 
-<div style="text-align: center;">
+<div align="center">
     <img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="img/docker-icon.svg">
-    <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="img/linux-icon.svg">
-    <img align="left" alt="Github Actions" width="45px" style="padding-right:10px;" src="img/github-actions-icon.svg">
-    <img align="left" alt="AWS" width="45px" style="padding-right:10px;" src="img/aws-icon.svg">
-    <img align="left" alt="Terraform" width="45px" style="padding-right:10px;" src="img/terraform-icon.svg">
-    <img align="left" alt="React.js" width="45px" style="padding-right:10px;" src="img/react-icon.svg">
-    <img align="left" alt="Svelte" width="45px" style="padding-right:10px;" src="img/svelte-icon.svg">
-    <img align="left" alt="Node.js" width="45px" style="padding-right:10px;" src="img/nodejs-icon.svg">
     <img align="left" alt="PostgreSQL" width="45px" style="padding-right:10px;" src="img/postgresql-icon.svg">
+    <img align="left" alt="React.js" width="45px" style="padding-right:10px;" src="img/react-icon.svg">
+    <img align="left" alt="Node.js" width="45px" style="padding-right:10px;" src="img/nodejs-icon.svg">
+    <img align="left" alt="Spring" width="45px" style="padding-right:10px;" src="img/spring-icon.svg">
+    <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="img/linux-icon.svg">
+    <img align="left" alt="NestJS" width="45px" style="padding-right:10px;" src="img/nestjs-icon.svg">
 </div>
 
 #
