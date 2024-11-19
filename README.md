@@ -10,8 +10,8 @@
 
 <div align="center">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/bash-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/terraform-icon.svg">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/typescript-icon.svg">
+    <img alt="C" width="45px" style="padding-right:10px;" src="img/terraform-icon.svg">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/python-icon.svg">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/yaml-icon.svg">
     <img alt="C" width="45px" style="padding-right:10px;" src="img/javascript-icon.svg">
