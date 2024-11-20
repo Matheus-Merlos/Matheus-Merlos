@@ -8,35 +8,25 @@
 ## 🌙 Linguagens:
 
 
-<div align="center">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/bash-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/typescript-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/terraform-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/python-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/yaml-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/javascript-icon.svg">
-</div>
+<p align="center">
+    <img width="45px" src="img/bash-icon.svg" alt="Bash">&nbsp;&nbsp;
+    <img width="45px" src="img/typescript-icon.svg" alt="TypeScript">&nbsp;&nbsp;
+    <img width="45px" src="img/terraform-icon.svg" alt="Terraform">&nbsp;&nbsp;
+    <img width="45px" src="img/python-icon.svg" alt="Python">&nbsp;&nbsp;
+    <img width="45px" src="img/yaml-icon.svg" alt="YAML">&nbsp;&nbsp;
+    <img width="45px" src="img/javascript-icon.svg" alt="JavaScript">
+</p>
 
-<br />
 
 ## 🛠️ Ferramentas
 
-<div align="center">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/ansible-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/linux-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/docker-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/kubernetes-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/github-actions-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/datadog-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/gitlab-icon.svg">
-    <img alt="C" width="45px" style="padding-right:10px;" src="img/prometheus-icon.svg">
-</div>
-
-#
-<br />
-
----
-
-![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheus-merlos&show_icons=true&theme=radical)
-
----
+<p align="center">
+    <img width="45px" src="img/ansible-icon.svg" alt="Ansible">&nbsp;&nbsp;
+    <img width="45px" src="img/linux-icon.svg" alt="Linux">&nbsp;&nbsp;
+    <img width="45px" src="img/docker-icon.svg" alt="Docker">&nbsp;&nbsp;
+    <img width="45px" src="img/kubernetes-icon.svg" alt="Kubernetes">&nbsp;&nbsp;
+    <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
+    <img width="45px" src="img/datadog-icon.svg" alt="Datadog">&nbsp;&nbsp;
+    <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
+    <img width="45px" src="img/prometheus-icon.svg" alt="Prometheus">&nbsp;&nbsp;
+</p>
