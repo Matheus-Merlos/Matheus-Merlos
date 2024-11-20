@@ -1,11 +1,13 @@
-# 🌃 Matheus Augusto Baiocco Merlos
+# 🌃 Matheus Merlos
+![](https://komarev.com/ghpvc/?username=Matheus-Merlos)
 
 `Matheus 'Azure' Augusto`
 
+Sou um **Engenheiro de DevOps** apaixonado por automação e pela criação de sistemas inteligentes que simplificam e aceleram processos. Desde cedo, minha conexão com a Internet e meu fascínio por jogos como Minecraft, Satisfactory e Factorio me inspiraram a buscar a transformar tarefas repetitivas em soluções otimizadas.
 
-<hr/>
+Hoje, aplico essa mesma filosofia na tecnologia, desenvolvendo pipelines, ferramentas e infraestruturas que maximizam a eficiência e reduzem o trabalho manual. Minha missão é tornar o impossível mais simples — e o simples, mais rápido.
 
-## 🌙 Linguagens:
+## 🌙 Linguagens:   
 
 
 <p align="center">
