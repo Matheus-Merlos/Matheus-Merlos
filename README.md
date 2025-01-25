@@ -1,10 +1,7 @@
-# 🌃 Matheus Merlos
+# 🌃 Matheus 'Azure' Merlos
 ![](https://komarev.com/ghpvc/?username=Matheus-Merlos)
 
-`Matheus 'Azure' Augusto`
-
 ## 🌙 Languages:   
-
 
 <p align="center">
     <img width="45px" src="img/bash-icon.svg" alt="Bash">&nbsp;&nbsp;
