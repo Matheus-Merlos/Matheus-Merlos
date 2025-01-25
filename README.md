@@ -3,11 +3,7 @@
 
 `Matheus 'Azure' Augusto`
 
-Sou um **Engenheiro de DevOps** apaixonado por automação e pela criação de sistemas inteligentes que simplificam e aceleram processos. Desde cedo, minha conexão com a Internet e meu fascínio por jogos como Minecraft, Satisfactory e Factorio me inspiraram a buscar a transformar tarefas repetitivas em soluções otimizadas.
-
-Hoje, aplico essa mesma filosofia na tecnologia, desenvolvendo pipelines, ferramentas e infraestruturas que maximizam a eficiência e reduzem o trabalho manual. Minha missão é tornar o impossível mais simples — e o simples, mais rápido.
-
-## 🌙 Linguagens:   
+## 🌙 Languages:   
 
 
 <p align="center">
@@ -15,12 +11,11 @@ Hoje, aplico essa mesma filosofia na tecnologia, desenvolvendo pipelines, ferram
     <img width="45px" src="img/typescript-icon.svg" alt="TypeScript">&nbsp;&nbsp;
     <img width="45px" src="img/terraform-icon.svg" alt="Terraform">&nbsp;&nbsp;
     <img width="45px" src="img/python-icon.svg" alt="Python">&nbsp;&nbsp;
-    <img width="45px" src="img/yaml-icon.svg" alt="YAML">&nbsp;&nbsp;
     <img width="45px" src="img/javascript-icon.svg" alt="JavaScript">
 </p>
 
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
 <p align="center">
     <img width="45px" src="img/ansible-icon.svg" alt="Ansible">&nbsp;&nbsp;
@@ -32,3 +27,16 @@ Hoje, aplico essa mesma filosofia na tecnologia, desenvolvendo pipelines, ferram
     <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
     <img width="45px" src="img/prometheus-icon.svg" alt="Prometheus">&nbsp;&nbsp;
 </p>
+
+## ⏱️ Stats
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=450" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight" alt="Matheus GitHub stats" />
+  </a>
+</p>
+
