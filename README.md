@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=600&langs_count=9" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=750&langs_count=9" alt="Top Langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=600&" alt="Matheus GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=750" alt="Matheus GitHub stats" />
   </a>
 </p>
 
