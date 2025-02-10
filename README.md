@@ -1,3 +1,12 @@
+## ⏱️ Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325&langs_count=9" alt="Top Langs" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325" alt="Matheus GitHub stats" width="50%" />
+</div>
+
+
+
 ## 🌙 Languages:   
 
 <p align="center">
@@ -21,16 +30,3 @@
   <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
   <img width="45px" src="img/prometheus-icon.svg" alt="Prometheus">&nbsp;&nbsp;
 </p>
-
-## ⏱️ Stats
-
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=750&langs_count=9" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=750"  alt="Matheus GitHub stats" />
-  </a>
-</p>
-
