@@ -1,8 +1,8 @@
 ## ⏱️ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325&langs_count=9" alt="Top Langs" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325" alt="Matheus GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325&langs_count=9" alt="Top Langs" width="47.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Merlos&layout=compact&theme=tokyonight&card_width=325&hide_rank=true" alt="Matheus GitHub stats" width="47.5%" />
 </div>
 
 
