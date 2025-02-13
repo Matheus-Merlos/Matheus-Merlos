@@ -24,9 +24,11 @@
   <img width="45px" src="img/ansible-icon.svg" alt="Ansible">&nbsp;&nbsp;
   <img width="45px" src="img/linux-icon.svg" alt="Linux">&nbsp;&nbsp;
   <img width="45px" src="img/docker-icon.svg" alt="Docker">&nbsp;&nbsp;
-  <img width="45px" src="img/kubernetes-icon.svg" alt="Kubernetes">&nbsp;&nbsp;
   <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
+  <img width="45px" src="img/aws-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
   <img width="45px" src="img/datadog-icon.svg" alt="Datadog">&nbsp;&nbsp;
+  <img width="45px" src="img/ec2-icon.svg" alt="AWS EC2">&nbsp;&nbsp;
+  <img width="45px" src="img/ecs-icon.svg" alt="AWS ECS">&nbsp;&nbsp;
+  <img width="45px" src="img/iam-icon.svg" alt="AWS IAM">&nbsp;&nbsp;
   <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
-  <img width="45px" src="img/prometheus-icon.svg" alt="Prometheus">&nbsp;&nbsp;
 </p>
