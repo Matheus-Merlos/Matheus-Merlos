@@ -23,6 +23,7 @@
 <p align="center">
   <img width="45px" src="img/ansible-icon.svg" alt="Ansible">&nbsp;&nbsp;
   <img width="45px" src="img/linux-icon.svg" alt="Linux">&nbsp;&nbsp;
+  <img width="45px" src="img/packer-icon.svg" alt="Packer">&nbsp;&nbsp;
   <img width="45px" src="img/docker-icon.svg" alt="Docker">&nbsp;&nbsp;
   <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
   <img width="45px" src="img/aws-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
