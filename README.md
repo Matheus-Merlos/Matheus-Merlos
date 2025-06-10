@@ -12,9 +12,9 @@
 <p align="center">
   <img width="45px" src="img/bash-icon.svg" alt="Bash">&nbsp;&nbsp;
   <img width="45px" src="img/typescript-icon.svg" alt="TypeScript">&nbsp;&nbsp;
-  <img width="45px" src="img/terraform-icon.svg" alt="Terraform">&nbsp;&nbsp;
   <img width="45px" src="img/python-icon.svg" alt="Python">&nbsp;&nbsp;
-  <img width="45px" src="img/javascript-icon.svg" alt="JavaScript">
+  <img width="45px" src="img/javascript-icon.svg" alt="JavaScript">&nbsp;&nbsp;
+  <img width="45px" src="img/hcl-icon.svg" alt="HashiCorp Configuration Language">
 </p>
 
 
@@ -23,13 +23,14 @@
 <p align="center">
   <img width="45px" src="img/ansible-icon.svg" alt="Ansible">&nbsp;&nbsp;
   <img width="45px" src="img/linux-icon.svg" alt="Linux">&nbsp;&nbsp;
-  <img width="45px" src="img/packer-icon.svg" alt="Packer">&nbsp;&nbsp;
+  <img width="45px" src="img/terraform-icon.svg" alt="Terraform">&nbsp;&nbsp;
   <img width="45px" src="img/docker-icon.svg" alt="Docker">&nbsp;&nbsp;
-  <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
+  <img width="45px" src="img/helm-icon.svg" alt="GitLab">&nbsp;&nbsp;
+  <img width="45px" src="img/kubernetes-icon.svg" alt="GitLab">&nbsp;&nbsp;
   <img width="45px" src="img/aws-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
-  <img width="45px" src="img/datadog-icon.svg" alt="Datadog">&nbsp;&nbsp;
   <img width="45px" src="img/ec2-icon.svg" alt="AWS EC2">&nbsp;&nbsp;
-  <img width="45px" src="img/ecs-icon.svg" alt="AWS ECS">&nbsp;&nbsp;
   <img width="45px" src="img/iam-icon.svg" alt="AWS IAM">&nbsp;&nbsp;
   <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
+  <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
+  <img width="45px" src="img/packer-icon.svg" alt="Packer">&nbsp;&nbsp;
 </p>
