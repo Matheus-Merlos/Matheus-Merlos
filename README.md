@@ -32,5 +32,5 @@
   <img width="45px" src="img/iam-icon.svg" alt="AWS IAM">&nbsp;&nbsp;
   <img width="45px" src="img/gitlab-icon.svg" alt="GitLab">&nbsp;&nbsp;
   <img width="45px" src="img/github-actions-icon.svg" alt="GitHub Actions">&nbsp;&nbsp;
-  <img width="45px" src="img/packer-icon.svg" alt="Packer">&nbsp;&nbsp;
+  <img width="45px" src="img/packer-icon.svg" alt="Packer">
 </p>
